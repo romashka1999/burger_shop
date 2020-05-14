@@ -8,3 +8,9 @@
     margin: auto;
     padding: 10px 0;
 }
+
+.BurgerControls p{
+    font-size: 30px;
+    font-weight: bold;
+}
+

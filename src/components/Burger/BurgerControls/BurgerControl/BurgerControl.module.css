@@ -15,3 +15,33 @@
     cursor: pointer;
     outline: none;
 }
+
+.BurgerControl .Label {
+    display: block;
+    font: inherit;
+    padding: 5px;
+    margin: 0 5px;
+    width: 80px;
+    border: 1px solid brown;
+    outline: none;
+    text-align: center;
+}
+
+.BurgerControl .More {
+    display: block;
+    font: inherit;
+    padding: 5px;
+    margin: 0 5px;
+    width: 80px;
+    border: 1px solid brown;
+    cursor: pointer;
+    outline: none;
+}
+
+.BurgerControl .Less {
+    background-color: rgb(184, 93, 93);
+}
+
+.BurgerControl .More {
+    background-color: rgb(74, 148, 74);
+}
