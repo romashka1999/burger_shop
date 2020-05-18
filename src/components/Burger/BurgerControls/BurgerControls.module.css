@@ -1,6 +1,6 @@
 .BurgerControls {
     width: 100%;
-    background-color: antiquewhite;
+    background-color: rgb(207, 143, 58);
     display: flex;
     flex-flow: column;
     align-items: center;
